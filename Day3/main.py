@@ -20,3 +20,4 @@ while True:
     if op == "exit":
         break
     print(calculator(a, b, op))
+    
